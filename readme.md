@@ -1,4 +1,4 @@
-1. backend folder > npm init -y
+<!-- 1. backend folder > npm init -y
 2. npm install express jsonwebtoken mongoose cookie-parser dotenv axios bcrpt.js
 3. The line const app = express(); is a crucial part of setting up an Express application. Here's a detailed explanation:
 
@@ -36,4 +36,4 @@ No JWT Storage in DB: The server doesn't need to store the JWT token in the data
 
 User data (e.g., username, hashed password, email, etc.) is stored in the database.
 
-JWT is not stored anywhere on the server or in the database. It is only sent to the client after login, and the client is responsible for managing it securely.
+JWT is not stored anywhere on the server or in the database. It is only sent to the client after login, and the client is responsible for managing it securely. -->
