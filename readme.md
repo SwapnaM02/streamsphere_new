@@ -2,8 +2,10 @@
 
 StreamSphere is a modern streaming platform that allows users to discover, enjoy, and share their favorite content across various categories. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js), this application delivers a seamless streaming experience with rich features.
 
-## StreamSphere Demo
-[▶️ Watch StreamSphere Demo Video](https://youtu.be/mEEkKgVB1FA) 
+## StreamSphere Demo 🎬
+
+
+[![Video Thumbnail](https://img.youtube.com/vi/mEEkKgVB1FA/maxresdefault.jpg)](https://youtu.be/mEEkKgVB1FA) 
 
 
 
